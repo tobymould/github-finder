@@ -20,6 +20,7 @@ export class User extends Component {
 
   render() {
     const { name, company, avatar_url, location, bio, blog, login, html_url, followers, following, public_repos, public_gists, hireable } = this.props.user;
+
     const { loading, repos } = this.props;
 
     if (loading) return <Spinner />;
