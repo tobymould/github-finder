@@ -1,4 +1,4 @@
-# GitHub Finder ReadMe 💷 :nerd_face:
+# GitHub Finder ReadMe :octocat: :nerd_face:
 > React Firebase Website enabling the search of Github.com User profiles en masse.
 
 ## :satellite: Summary :satellite:
