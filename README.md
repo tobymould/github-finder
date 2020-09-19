@@ -1,5 +1,5 @@
 # GitHub Finder ReadMe 💷 :nerd_face:
-> React Firebase Website enabling the authenticated tracking of expenses and income in one place.
+> React Firebase Website enabling the search of Github.com User profiles en masse.
 
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
