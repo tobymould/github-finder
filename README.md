@@ -4,5 +4,5 @@
 ## :satellite: Summary :satellite:
    - __Status:__ COMPLETE 
 
-## :hammer: Languages/Tools :hammer::
+## :hammer: Languages/Tools :hammer:
 __React.js | Sass | CSS3 | HTML5 | Firebase__
